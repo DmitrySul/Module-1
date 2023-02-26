@@ -1,0 +1,115 @@
+body {
+    font-family: 'Manrope', sans-serif;
+}
+
+.head {
+    Width: 1150px;
+    Height: 650px;
+    position: absolute;
+    padding-top: 128px;
+    padding-bottom: 6433px;
+    padding-left: 125px;
+    padding-right: 125px;
+    
+}
+
+h1 {
+    width: 953px;
+    height: 120px;
+    top: 128px;
+    left: 128px;
+    padding-bottom: 30px;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 60px;
+    letter-spacing: -0.03em;
+    color: #121212;
+}
+
+.rectangle1-body {
+    width: 1150px;
+    height: 500px;
+    background-image: url('../resources/Rectangle1.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+       
+}
+
+.rectangle-body-text {
+    width: 430px;
+    height: 81px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    letter-spacing: -0.03em;
+    padding-top: 379px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 680px;
+    color: #FFFFFF;
+}
+
+.head2 {
+    Width: 1051px;
+    Height: 518px;
+    position: absolute;
+    padding-top: 928px;
+    padding-bottom: 5765px;
+    padding-left: 125px;
+    padding-right: 224px; 
+}
+
+h2 {
+    width: 51px;
+    height: 25px;
+    padding-bottom: 30px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: -0.03em;
+    color: #121212;
+}
+
+.text2 {
+    width: 1048px;
+    height: 366px;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 61px;
+    letter-spacing: -0.03em;
+    color: #121212;
+}
+
+.button1 {
+    position: absolute;
+    width: 255px;
+    height: 67px;
+    padding-top: 30px;
+}
+
+.btn {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    background-color: #ad1818;
+    border: none;
+    border-radius: 5px;
+    gap: 10px;
+}
+
+.btntext {
+    width: 175px;
+    height: 27px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    letter-spacing: -0.03em;
+    color: #FFFFFF;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
