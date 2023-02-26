@@ -1,6 +1,10 @@
 body {
     font-family: 'Manrope', sans-serif;
+    max-width: 1180px;
+    margin: 0 auto;
 }
+
+
 
 .head {
     Width: 1150px;
@@ -29,7 +33,7 @@ h1 {
 .rectangle1-body {
     width: 1150px;
     height: 500px;
-    background-image: url('Rectangle1.png');
+    background-image: url('../resources/Rectangle1.png');
     background-size: contain;
     background-repeat: no-repeat;
        
