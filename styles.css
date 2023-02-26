@@ -10,7 +10,7 @@ body {
     padding-bottom: 6433px;
     padding-left: 125px;
     padding-right: 125px;
-    
+    box-sizing: border-box;
 }
 
 h1 {
@@ -29,7 +29,7 @@ h1 {
 .rectangle1-body {
     width: 1150px;
     height: 500px;
-    background-image: url('../resources/Rectangle1.png');
+    background-image: url('Rectangle1.png');
     background-size: contain;
     background-repeat: no-repeat;
        
